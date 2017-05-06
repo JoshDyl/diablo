@@ -1,0 +1,99 @@
+Feral23
+0
+8,10,16,17
+0,0,765,831,5
+94
+Cap,0,300,AMR+1 EVA+4,-1,0
+Short Sword,1,400,DMG+5,-1,0
+Dagger,1,400,DMG+2 EVA+4 DEX+1,-1,0
+Buckler,2,600,AMR+2,-1,0
+Skullcap,0,600,AMR+2 EVA+3,-1,0
+Heavy Gloves,5,800,AMR+2 EVA+3,-1,0
+Leather Armor,3,800,AMR+2 EVA+8,-1,0
+Heavy Boots,4,800,AMR+2 EVA+1,-1,0
+Barbed Shield,2,900,AMR+2 END+2 STR+2 DMG+1,-1,3
+Double Axe,1,1000,DMG+8,-1,0
+Small Shield,2,1000,AMR+4,-1,0
+Dirk,1,1200,DMG+5 EVA+4 DEX+2,-1,0
+Basinet,0,1200,AMR+3 EVA+2,-1,0
+Chain Gloves,5,1200,AMR+3 EVA+1,-1,0
+Chain Boots,4,1200,AMR+3 END+1,-1,0
+Hard Leather Armor,3,1200,AMR+3 EVA+6,-1,0
+Studded Armor,3,1400,AMR+4 EVA+4,-1,0
+Light Plated Boots,4,1500,AMR+5,-1,0
+Shako,0,1500,AMR+3 EVA+5 AGI+2 DEX+1,-1,1
+Ring Mail,3,1500,AMR+5 END+1,-1,0
+Large Shield,2,1500,AMR+6,-1,0
+Sabre,1,1500,DMG+11,-1,0
+Scale Mail,3,1800,AMR+6 END+2,-1,0
+Hydraskull,0,1900,AMR+4 STR+3 END+3 DMG+2,-1,3
+Kite Shield,2,2000,AMR+8,-1,0
+Mesh Boots,4,2000,AMR+2 EVA+10 AGI+3,-1,1
+Greaves,4,2000,AMR+8 END+2,-1,2
+Military Pick,1,2000,DMG+12,-1,0
+Light Gauntlets,5,2000,AMR+4,-1,0
+Full Helm,0,2000,AMR+6,-1,0
+Sharkskin Gloves,5,2000,AMR+3 STR+2 END+2 DMG+2,-1,3
+Spiked Shield,2,2200,AMR+4 END+4 DMG+2,-1,3
+Breastplate,3,2200,AMR+10,-1,2
+Battle Boots,4,2200,AMR+6 END+2,-1,0
+Demonhead,0,2400,AMR+4 AGI+2 DEX+3,-1,0
+Chain Mail,3,2500,AMR+8 END+2,-1,0
+Mask,0,2500,AMR+8 END+1,-1,0
+Kris,1,2500,DMG+8 EVA+4 DEX+4,-1,0
+Splint Mail,3,2900,AMR+9 END+4 STR+4,-1,3
+Falchion,1,3000,DMG+14,-1,0
+War Boots,4,3000,AMR+9,-1,0
+Light Plate,3,3200,AMR+11 STR+2,-1,0
+Gauntlets,5,3200,AMR+5,-1,0
+Crown,0,3200,AMR+6 EVA+10,-1,0
+Blade,1,3200,DMG+10 EVA+4 DEX+5,-1,0
+Scarabshell Boots,4,4000,AMR+6 END+3 AGI+3,-1,3
+Great Axe,1,4000,DMG+18,-1,3
+Demonhide Gloves,5,4000,AMR+4 EVA+10 CTH+10,-1,1
+Field Plate,3,4100,AMR+15 STR+3,-1,0
+Heavy Bracers,5,4100,AMR+7,-1,0
+Wyrmhide Boots,4,4200,AMR+5 EVA+10 AGI+4 DEX+2,-1,1
+Diadem,0,4500,AMR+5 EVA+8 CTH+16,-1,1
+Bone Shield,2,4500,AMR+8 END+8 MST+100 DMG+4,-1,3
+Stilleto,1,4600,DMG+11 CTH+10 DEX+4,-1,1
+Tower Shield,2,4800,AMR+12,-1,2
+Great Helm,0,4800,AMR+8 END+4 STR+4 MHP+40,-1,2
+Bone Helm,0,5000,AMR+8 STR+4 MHP+80 DMG+2,-1,3
+Broad Sword,1,5000,DMG+17,-1,0
+Boneweave Boots,4,5000,AMR+8 MST+80 MHP+80,-1,3
+Pavise,2,5000,AMR+10 MHP+100 MST+100,-1,2
+Plate Mail,3,5200,AMR+18 STR+4,-1,0
+Myrmidon Boots,4,5500,AMR+12 MHP+50 MST+50,-1,2
+Battle Gauntlets,5,5500,AMR+9 CTH+10,-1,0
+Mirrored Boots,4,6000,AMR+10 STR+2 END+2,-1,0
+Spired Helm,0,6600,AMR+10 END+5 STR+5 MHP+50,-1,2
+Grand Crown,0,6900,AMR+9 EVA+10 CTH+10,-1,0
+Full Plate,3,7000,AMR+22 STR+4 END+4,-1,2
+Long Sword,1,7000,DMG+20,-1,0
+Grim Helm,0,7200,AMR+6 DEX+3 EVA+10 CTH+10,-1,0
+Mithril Point,1,8000,DMG+15 CTH+12 EVA+4 DEX+4,-1,1
+Berseker Axe,1,8000,DMG+24,-1,3
+Gothic Shield,2,8000,AMR+16,-1,2
+Death Mask,0,8000,AMR+8 STR+3 MHP+50 CTH+10,-1,0
+Ogre Gauntlets,5,8200,AMR+11 CTH+10 DMG+4,-1,0
+Winged Helm,0,9000,AMR+12 END+2 MHP+60 MST+60,-1,2
+Bonewave,3,9000,AMR+15 STR+12 END+4 MST+150,-1,3
+Gladius,1,10000,DMG+24 END+4 DEX+2,-1,2
+Ghost Armor,3,10000,AMR+11 AGI+10 DEX+4 EVA+10,-1,1
+Ancient Armor,3,12000,AMR+30,-1,2
+Crystal Sword,1,13000,DMG+28 STR+4 DEX+2,-1,2
+Legend Blade,1,14000,DMG+20 CTH+15 EVA+10 DEX+5,-1,1
+Ancient Sword,1,16000,DMG+32 STR+4 END+2 DEX+2,-1,2
+Glorious Axe,1,18000,DMG+36 STR+4 END+2 DEX+4,-1,3
+Ancient Shield,2,18000,AMR+22 STR+4 END+4,-1,2
+Crusader Gauntlets,5,18000,AMR+12 MHP+60 MST+60,-1,2
+Great Hauberk,3,18000,AMR+18 STR+4 MHP+120 MST+100,-1,2
+Kraken Shell,3,20000,AMR+18 END+10 STR+10 MHP+150,-1,3
+Sacred Armor,3,20000,AMR+32 END+10 STR+4 MST+200,-1,2
+Colossus Blade,1,22000,DMG+40 STR+4 END+4 DEX+4,-1,2
+Scimitar,1,1000,DMG+8,2,0
+Leather Boots,4,200,AMR+1 EVA+2,6,0
+Hand Axe,1,500,DMG+4,3,0
+Quilted Armor,3,400,AMR+1 EVA+10,5,0
+Leather Gloves,5,400,AMR+1 EVA+5,4,0

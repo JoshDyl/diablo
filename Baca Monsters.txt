@@ -1,0 +1,96 @@
+class Monster {
+private:
+	char monsterName[100];
+	int level;
+	int goldCoin;
+	int damage;
+	int changeToHit;
+	int evade;
+	int speed;
+	int maxHealth;
+	int maxStamina;
+	int armor;
+	int exp;
+	int offence;
+	int defence;
+public:
+	Monster(char monsterName[],int level ,int goldCoin, int damage, int changeToHit,int evade,int speed,int maxHealth, int masStamina, int armor, int exp, int offence, int defence){
+		strcpy(this->monsterName,monsterName);
+		this->level = level;
+		this->goldCoin = goldCoin;
+		this->damage = damage;
+		this->changeToHit = changeToHit;
+		this->evade = evade;
+		this->speed = speed;
+		this->maxHealth = maxHealth;
+		this->maxStamina= maxStamina;
+		this->armor= armor;
+		this->exp = exp;
+		this->offence = offence;
+		this->defence;
+	}
+	char *getMonsterName(){
+		return monsterName;
+	}
+	int getDamage(){
+		return damage;
+	}
+	int getLevel(){
+		return level;
+	}
+	int getChangeToHit(){
+		return changeToHit;
+	}
+	int getGoldCoin(){
+		return goldCoin;
+	}int getEvade(){
+		return evade;
+	}
+	int getSpeed(){
+		return speed;
+	}int getMaxHealth(){
+		return maxHealth;
+	}
+	int getMaxStamina(){
+		return maxStamina;
+	}
+	int getArmor(){
+		return armor;
+	}
+	int getExp(){
+		return exp;
+	}
+	int getDefence(){
+		return defence;
+	}
+	int getOffence(){
+		return offence;
+	}
+};
+
+
+void main() {
+	// must be called at start of main
+	Console::initialize();
+	int total=0;
+	Monster *monster[50];
+	FILE *fp;
+	fp = fopen("monster.txt","r");
+	if(fp==NULL){
+		printf("Cannot Load the Movie List");
+		getchar();
+	}
+	else{
+		char monsterName[30];
+		int level,goldCoin,damage,changeToHit,evade,speed,maxHealth,maxStamina,armor,exp,offence,defence;
+		while(!feof(fp)){
+			fscanf(fp,"%s,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d\n",monsterName,&level,&goldCoin,&damage,&changeToHit,&evade,&speed,&maxHealth,&maxStamina,&armor,&exp,&offence,&defence);
+			monster[total] = new Monster(monsterName,level,goldCoin,damage,changeToHit,evade,speed,maxHealth,maxStamina,armor,exp,offence,defence);
+			total++;
+		}
+		fclose(fp);
+	}
+	//for(int i=0;i<29;i++){
+	//Console::printf("%s,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d\n",monster[i].getMonsterName(),level,goldCoin,damage,changeToHit,evade,speed,maxHealth,maxStamina,armor,exp,offence,defence);
+	Console::printf("%d",monster[1]->getArmor());
+	
